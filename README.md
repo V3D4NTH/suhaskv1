@@ -1,6 +1,6 @@
 ### About me
 
- Hey there! My name is Suhas KV and I create useless discord bots and write assembly code.
+ Hey there! My name is Suhas KV and I just exist.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaskv1&show_icons=true&theme=solarized-dark)
 
