@@ -1,6 +1,6 @@
 ## About me
 
- Hey there! My name is Suhas KV and I just exist.
+ Hey there! My name is Suhas KV and I love tinkering with hardware.
  
 ## Statistics
 
