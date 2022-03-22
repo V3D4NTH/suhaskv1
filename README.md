@@ -16,4 +16,4 @@
 
 ## Contribution Graph
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=suhaskv1&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=suhaskv1&theme=redical)]
